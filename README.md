@@ -5,3 +5,6 @@ Advantages
 The distribution offers a stable Debian base and its updates
 inside a simple installation *Calamares*
 cinnamon works inside 
+
+дистрибутив на базе дебиан, для обычных пользователей и ПК
+дистрибутив создан для обычных пользователей и включает готовые пакеты 
